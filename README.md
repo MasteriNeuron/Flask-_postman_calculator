@@ -1,9 +1,9 @@
 ## Flask-_postman_calculator
 
-# How to run at pwlab: {url}:8000 like this: https://purple-chef-haxjj.pwskills.app:8000/
-# How to go with postman: Beacuse it is running on lab so , copy the url {url:8000/postman_data} example: https://purple-chef-haxjj.pwskills.app:8000/postman_data
+# How to run at pwlab: {url}:8000 like this: https://purple-chef-haxjj.pwskills.app:8000/<br>
+### How to go with postman: Beacuse it is running on lab so , copy the url {url:8000/postman_data} example: https://purple-chef-haxjj.pwskills.app:8000/postman_data
 
-## the input at the postman
+####the input at the postman
 in raw :
 {       "operation":"add",
         "num1": 22,
